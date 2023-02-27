@@ -1,5 +1,5 @@
 # mle-training
-Assignment 3.1
+Assignment 2.2
 
 # Median housing value prediction
 
